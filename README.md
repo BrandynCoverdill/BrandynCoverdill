@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Brandyn Coverdill.
-- 👀 I’m interested in developing my IT Career with C#, ASP.net MVC5, and Databases.
-- 🌱 I’m currently relearning and sharping my skills with ASP.net MVC and SQL, so I can use Entity Framework to work with my projects.
+- 👀 I’m interested in developing and expanding my IT Career with Front-end Web Development.
+- 🌱 I’m currently sharpening my skills in html, css, and javascript.
 - 📫 How to reach me: brandyncoverdill98@gmail.com or by phone (319) 360-9465
 
 <!---
